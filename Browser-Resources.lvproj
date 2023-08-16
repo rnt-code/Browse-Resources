@@ -16,10 +16,7 @@
 		<Item Name="Type Definitions" Type="Folder" URL="../Type Definitions">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name=".gitattributes" Type="Document" URL="../.gitattributes"/>
-		<Item Name=".gitignore" Type="Document" URL="../.gitignore"/>
 		<Item Name="Browser_for_resources.vi" Type="VI" URL="../Browser_for_resources.vi"/>
-		<Item Name="README.md" Type="Document" URL="../README.md"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
@@ -58,11 +55,6 @@
 				<Item Name="VISA Configure Serial Port (Serial Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Serial Instr).vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="1905x Series Close.vi" Type="VI" URL="../../CHROMA-19052-Configurator-project/base drivers/1905x Series Close.vi"/>
-			<Item Name="1905x Series Delay.vi" Type="VI" URL="../../CHROMA-19052-Configurator-project/base drivers/1905x Series Delay.vi"/>
-			<Item Name="19052 Open_port.vi" Type="VI" URL="../../CHROMA-19052-Configurator-project/base drivers/19052 Open_port.vi"/>
-			<Item Name="get_and_insert_SN.vi" Type="VI" URL="../../CHROMA-19052-Configurator-project/Listing Available Resources/get_and_insert_SN.vi"/>
-			<Item Name="max_array_size.vi" Type="VI" URL="../../CHROMA-19052-Configurator-project/Listing Available Resources/max_array_size.vi"/>
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
