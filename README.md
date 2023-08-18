@@ -1,4 +1,4 @@
-# Browse-Resources
+# Browser for Resources
  Browser for resources (DAQ, SERIAL, GPIB)
 
  
