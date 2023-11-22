@@ -134,6 +134,42 @@
 				<Property Name="TgtF_targetfileGUID" Type="Str">{87D8C553-638A-44E1-9D8F-2F8FEF74F314}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">Browser for resources v1.0 beta2.exe</Property>
 			</Item>
+			<Item Name="Browser for resources v1.0 beta3" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{FBCA7E9C-494D-4E35-909F-392AB9218D87}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{722B2487-66E6-4A8B-9483-76D78B25401E}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{BCD0AD3A-5D17-48DB-8FC7-CC68979CDF30}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Browser for resources v1.0 beta3</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/Browser for resources v1.0 beta3</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{234768D1-EAD7-444A-A603-9FE958B6664F}</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">Browser for resources v1.0 beta3.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Browser for resources v1.0 beta3/Browser for resources v1.0 beta3.exe</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Browser for resources v1.0 beta3/data</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{2C0DE416-15C8-4C49-95D9-5B5F3340B0D0}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Browser_for_resources.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Browser for resources v1.0 beta3</Property>
+				<Property Name="TgtF_internalName" Type="Str">Browser for resources v1.0 beta3</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2023 </Property>
+				<Property Name="TgtF_productName" Type="Str">Browser for resources v1.0 beta3</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{ACC83AC6-2474-40E8-A229-B5090D487BFA}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">Browser for resources v1.0 beta3.exe</Property>
+			</Item>
 		</Item>
 	</Item>
 </Project>
