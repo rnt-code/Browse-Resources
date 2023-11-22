@@ -136,10 +136,11 @@
 			</Item>
 			<Item Name="Browser for resources v1.0 beta3" Type="EXE">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
-				<Property Name="App_INI_aliasGUID" Type="Str">{FBCA7E9C-494D-4E35-909F-392AB9218D87}</Property>
-				<Property Name="App_INI_GUID" Type="Str">{722B2487-66E6-4A8B-9483-76D78B25401E}</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{3CC8123D-F66E-40F4-9FA3-7439C40F991B}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{22AB93CC-EF7A-40D1-AE75-C99CF80F5929}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
-				<Property Name="Bld_buildCacheID" Type="Str">{BCD0AD3A-5D17-48DB-8FC7-CC68979CDF30}</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{CEB846A9-44CC-4D7F-9BA7-4F53FABE6C70}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">Browser for resources v1.0 beta3</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
@@ -147,7 +148,8 @@
 				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/Browser for resources v1.0 beta3</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
-				<Property Name="Bld_previewCacheID" Type="Str">{234768D1-EAD7-444A-A603-9FE958B6664F}</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{F228B68B-C342-4A76-BEBA-5FD8B6295444}</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Browser for resources v1.0 beta3.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Browser for resources v1.0 beta3/Browser for resources v1.0 beta3.exe</Property>
@@ -156,7 +158,7 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Browser for resources v1.0 beta3/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{2C0DE416-15C8-4C49-95D9-5B5F3340B0D0}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{8BD33909-2FB2-4ADD-B283-4F3F632FD295}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Browser_for_resources.vi</Property>
@@ -167,7 +169,7 @@
 				<Property Name="TgtF_internalName" Type="Str">Browser for resources v1.0 beta3</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2023 </Property>
 				<Property Name="TgtF_productName" Type="Str">Browser for resources v1.0 beta3</Property>
-				<Property Name="TgtF_targetfileGUID" Type="Str">{ACC83AC6-2474-40E8-A229-B5090D487BFA}</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{D6C956DA-54E2-490F-93B5-13E86E9F6BA2}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">Browser for resources v1.0 beta3.exe</Property>
 			</Item>
 		</Item>
